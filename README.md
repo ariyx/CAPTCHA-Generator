@@ -6,8 +6,7 @@ Let's embrace our CAPTCHA and embark on a whimsical, laugh-inducing, and enigmat
 
 ## Screenshots
 
-[See Screenshot's..](https://github.com/ariyx/CAPTCHA-Generator/tree/main/img)
-
+Coming soon.
 
 ## Installation
 

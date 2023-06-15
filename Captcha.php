@@ -12,7 +12,7 @@ class Captcha
     {
         $this->permitted_chars = $permitted_chars;
         $this->string_length = $string_length ?? strlen($text);
-        $this->fonts = [__DIR__ . '\Acme.ttf', __DIR__ . '\ARLRDBD.ttf'];
+        $this->fonts = [__DIR__ . '\fonts\Acme.ttf', __DIR__ . '\fonts\ARLRDBD.ttf'];
 
         if (!empty($text)) { 
             $this->text = $text;

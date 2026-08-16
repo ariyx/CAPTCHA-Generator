@@ -1,0 +1,11 @@
+# Editor settings
+.vscode/
+
+# Generated CAPTCHA images
+*.png
+
+# PHP runtime files
+*.log
+*.tmp
+sessions/
+sess_*
